@@ -8,6 +8,7 @@ I'm also interested in grand unified theories, biological chemistry and social p
 
 I’m looking for help with knowledge about Python. I'm a Python novice.🤔
 It may sounds strange, but you can tell me problems about elementary mathematics or psychology. Maybe I can help you.👯
+
 To contact with me, you can send an e-mail to  zsvx744694@outlook.com  💬📫
 
 ps: This guy is calm and friendly most of the time, but he is a bit arrogant.⚡⚡
