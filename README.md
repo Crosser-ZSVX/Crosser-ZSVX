@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-<!--
+I am a senior high school student from China.
+My favourite subjects are programming, Physics and Math.
 **Crosser-ZSVX/Crosser-ZSVX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
