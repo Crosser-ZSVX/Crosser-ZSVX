@@ -1,16 +1,14 @@
-### Hi there 👋
-I am a senior high school student from China.
-My favourite subjects are programming, Physics and Math.
-**Crosser-ZSVX/Crosser-ZSVX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi everyone 👋
+I am a senior high school student from ### China.✨✨✨
+My favourite subjects are Physics and Math.😄
+I am currently learning knowledge about Python and digital circuit.🔭
+I'm also interested in grand unified theories, biological chemistry and social psychology.🌱
 
-Here are some ideas to get you started:
+(This hesitant guy wants to learn so much that some of his knowledge is superficial...)⚡⚡⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m looking for help with knowledge about Python. I'm a Python novice.🤔
+It may sounds strange, but you can tell me problems about elementary mathematics or psychology. Maybe I can help you.👯
+To contact with me, you can send an e-mail to  zsvx744694@outlook.com  💬📫
+
+ps: This guy is calm and friendly most of the time, but he is a bit arrogant.⚡⚡
+    If he says some absurd words, please remind he.✨✨
