@@ -1,5 +1,5 @@
 ### Hi everyone 👋
-I am a senior high school student from China.✨✨✨
+I am a college student from China.✨✨✨
 My favourite subjects are Physics and Math.😄
 I am currently learning knowledge about Python and digital circuit.🔭
 I'm also interested in grand unified theories, biological chemistry and social psychology.🌱
